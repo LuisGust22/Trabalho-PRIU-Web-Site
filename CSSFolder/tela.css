@@ -1,0 +1,46 @@
+@media only screen and (max-width: 720px) and (max-height: 890px){
+    body{
+        background-color: rgb(6, 207, 6);
+
+    }
+    #new{
+        width: 101%;
+        height: 891px;
+        background-color: green;
+    }
+    #barraBusca{
+        width: 350px;
+        height: 40px;
+        margin-bottom: 30px;
+    }
+    img{
+        height: 50px;
+        width: 50px;
+    }
+    button{
+        text-align: center;
+        border-radius: 15px;
+        margin-top: 10px;
+        width: 25%;
+        height: 15%;
+    }
+    #square{
+        border-radius: 0px;
+        width: 50px;
+        height: 40px;
+    }
+    #home{
+        margin-top: 20px;
+    }
+    #seta{
+        width: 30px;
+        height: 30px;
+    }
+    div{
+        text-align: center;
+    }
+    .text{
+        width: 10%;
+        height: 10%;
+    }
+}
